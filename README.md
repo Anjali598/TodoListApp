@@ -5,13 +5,13 @@ https://anjali598.github.io/TodoListApp/
 
 # create a new repository on the command line
 
-echo "# TodoListApp" >> README.md.\
-git init.\
-git add README.md.\
-git commit -m "first commit".\
-git branch -M master.\
-git remote add origin https://github.com/Anjali598/TodoListApp.git.\
-git push -u origin master.\
+echo "# TodoListApp" >> README.md \
+git init \
+git add README.md \
+git commit -m "first commit" \
+git branch -M master \
+git remote add origin https://github.com/Anjali598/TodoListApp.git \
+git push -u origin master \
 
 # push an existing repository from the command line
 
