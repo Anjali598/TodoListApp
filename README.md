@@ -15,9 +15,9 @@ git push -u origin master \
 
 # push an existing repository from the command line
 
-git remote add origin https://github.com/Anjali598/TodoListApp.git
-git branch -M master
-git push -u origin master
+git remote add origin https://github.com/Anjali598/TodoListApp.git \
+git branch -M master \
+git push -u origin master \
 
 # Getting Started with Create React App
 
