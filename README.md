@@ -1,6 +1,6 @@
 # links for github pages
 
-https://anjali598.github.io/TodoListApp/#todo.\
+https://anjali598.github.io/TodoListApp/#todo \
 https://anjali598.github.io/TodoListApp/
 
 # create a new repository on the command line
