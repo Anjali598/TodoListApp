@@ -2,22 +2,24 @@
   "name": "todolistapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "  https://anjali598.github.io/TodoListApp",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^4.2.4",
-    "homepage": "  https://anjali598.github.io/TodoListApp"
+    "web-vitals": "^4.2.4"
+    
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+   
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
